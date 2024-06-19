@@ -1,0 +1,25 @@
+.gallary {
+    display: grid;
+    width: 80%;
+    margin: 140px auto;
+    gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+
+    .gallary_item {
+        display: grid;
+        align-content: space-between;
+        border-radius: 10px;
+        border: 1px solid white;
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .card_content {
+            gap: 20px;
+            padding: 20px;
+            align-self: end;
+        }
+    }
+}

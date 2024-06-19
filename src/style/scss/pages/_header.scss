@@ -1,0 +1,33 @@
+.header {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 40px;
+
+    img {
+        width: 50px;
+
+    }
+
+    ul {
+        display: flex;
+        align-items: center;
+        justify-self: center;
+        gap: 20px;
+
+        li,
+        a {
+            color: white;
+            cursor: pointer;
+            text-transform: uppercase;
+            font-size: 20px;
+
+            &:hover {
+                color: gold;
+            }
+        }
+    }
+
+}

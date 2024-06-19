@@ -1,0 +1,19 @@
+{{#each this}}
+  <li class="gallary_item">
+    <img src="{{flag}}" />
+    <div class="card_content">
+      <h2>{{name}}</h2>
+      <p><b>Столиця:{{capital}}</b></p>
+      <p><b>Валюта:{{currency}}</b></p>
+      <p><b>Офіційна мова:{{language}}</b></p>
+      <p><b>Населення:{{population}}</b></p>
+
+      {{#if infected}}
+        <p style="color: red">Все пропало!!!!</p>
+      {{/if}}
+      {{#unless infected}}
+        <p style="color: green">Все добре!!!</p>
+      {{/unless}}
+    </div>
+  </li>
+{{/each}}

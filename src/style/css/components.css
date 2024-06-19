@@ -1,0 +1,24 @@
+.btn {
+  background-color: tomato;
+  padding: 20px 15px;
+  margin: 50px auto;
+  font-size: 23px;
+  cursor: pointer;
+}
+
+.modal {
+  display: none;
+}
+
+.modal_active {
+  display: block;
+  width: 500px;
+  height: 300px;
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  background-color: grey;
+  font-size: 23px;
+  border-radius: 20px;
+  border: 1px solid tomato;
+}/*# sourceMappingURL=components.css.map */

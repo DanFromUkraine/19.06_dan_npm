@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Австралія",
+    "capital": "Канберра",
+    "currency": "Австралійський долар (AUD)",
+    "language": "Англійський",
+    "population": 24970200,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/250px-Flag_of_Australia_%28converted%29.svg.png",
+    "infected": false
+  },
+  {
+    "name": "Болівія",
+    "capital": "Сукре",
+    "currency": "Болівіано (BOB)",
+    "language": "Іспанський, кечуа, аймара, гуарані",
+    "population": 10461053,
+    "flag": "https://kapterka.com.ua/image/data/flags/flag-bolivii-kupit-kiev.jpg",
+    "infected": true
+  },
+  {
+    "name": "Великобританія",
+    "capital": "Лондон",
+    "currency": "Фунт стерлінгів (GBP)",
+    "language": "Англійська",
+    "population": 63395574,
+    "flag": "https://kapterka.com.ua/image/data/flagi/flag-velikobritanii-union-jack.jpg",
+    "infected": false
+  },
+  {
+    "name": "Ямайка",
+    "capital": "Кінгстон",
+    "currency": "Ямайський долар (JMD)",
+    "language": "АНглійський",
+    "population": 2868380,
+    "flag": "https://flagstore.com.ua/wp-content/uploads/2016/11/Jamaica.jpg",
+    "infected": false
+  },
+  {
+    "name": "Швеція",
+    "capital": "Стокгольм",
+    "currency": "Шведська крона (SEK)",
+    "language": "Шведський",
+    "population": 9723809,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/250px-Flag_of_Sweden.svg.png",
+    "infected": true
+  },
+  {
+    "name": "Португалія",
+    "capital": "Лісабон",
+    "currency": "Євро (EUR)",
+    "language": "ПОртугальський",
+    "population": 10799270,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/250px-Flag_of_Portugal.svg.png",
+    "infected": true
+  }
+]
